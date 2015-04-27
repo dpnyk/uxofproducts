@@ -5,19 +5,19 @@ gems:
   - jemoji
   
 # Site settings
-title: "Mediator"
+title: "UXofProducts"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   UXofProducts is a review blog where I will be reviewing the user experience of various products. These products will be reviewed on overall ease of use, adherence to heuristics, information architecture, interaction designs, typography, visual language and design. I might also conduct user testing of these products to see how they fit ocassionally. This is my new exercise, hopefully you will have fun reading about it as much as I do reviewing products.
 
-email: a-mail@mail.mail
+email: 
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/uxop.png"
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/teawriting.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'TheUXMonkey'
+author: 'Dee Nayak'
+author_image: "/assets/images/author.png"
 
 paginate:	5
 
@@ -27,7 +27,7 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/theuxmonkey
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -41,7 +41,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/dpnyk
     desc:	Fork me on github
     share_url:
     share_title:
