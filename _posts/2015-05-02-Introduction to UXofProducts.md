@@ -8,3 +8,5 @@ Everyone these days is catching up on UX. It is a hot buzz word in the tech indu
 whenever I can find some time and users to see how these products fare not just from my perspective. 
 
 Who am I? I am a UX designer, a problem solver and I am here to show you how everything you work with has a certain good or bad experience to it. I will give these products a rating depending on a combination of my experience and usability testings results, however each product is experienced differently by people so take this with a pinch of salt and try them out yourselves. I'd love to hear about how your experience was!
+
+- The UX Monkey
