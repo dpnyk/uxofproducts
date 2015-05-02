@@ -7,7 +7,7 @@ gems:
 # Site settings
 title: "UXofProducts"
 description: > # this means to ignore newlines until "email:"
-   UXofProducts is a review blog where I will be reviewing the user experience of various products. These products will be reviewed on overall ease of use, adherence to heuristics, information architecture, interaction designs, typography, visual language and design. I might also conduct user testing of these products to see how they fit ocassionally. This is my new exercise, hopefully you will have fun reading about it as much as I do reviewing products.
+A review blog for various products and apps, You're welcome to read about my experiences with them.
 
 email: 
 #blog logo
