@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Icecream and UX
 
@@ -22,4 +23,3 @@ Well these are the four things Icecream teaches me about UX, Sound off what you 
 Until Laters,
  
 The UXmonkey
-
