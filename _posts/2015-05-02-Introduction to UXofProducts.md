@@ -1,8 +1,8 @@
 ---
 title: Introduction to UXofProducts
 image: macandbook.jpg
-category: work
 published: true
+layout: post
 ---
 
 
