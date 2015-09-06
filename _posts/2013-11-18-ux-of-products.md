@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 
 ## UX of Products, an introduction
