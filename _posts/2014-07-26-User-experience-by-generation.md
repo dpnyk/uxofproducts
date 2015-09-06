@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ## User Experience by Generation
 
 I came across this **Kids React** video and it got me wondering, how is it that when I was 8, I was able to use this very same gameboy without any prior knowledge or even having seen such a device before( Gameboy was a gift from my uncle who'd got it for us from abroad) while these tech savvy kids fail to operate a much simpler device. 
@@ -29,3 +30,6 @@ The reaction of **Elders React**  to google glass was not too dissimilar. Most p
 
 
 But the key thing, Majority of either group did not want the devices presented to them, which only shows that User Experience is a whole lot about context and Time than previously thought.
+
+Until Laters,
+The UX Monkey
