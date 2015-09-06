@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Designing for e-Commerce
 
@@ -53,4 +54,3 @@ By removing some of these bottlenecks we ensure that the user has a pleasant exp
 
 
 While there are more subtleties that need to be addressed when designing for e-Commerce, these are some of the key areas that when kept in mind while designing will help the designer and the company offer a pleasant meaningful experience and go a long way in building a loyal customer base.
-
