@@ -3,7 +3,6 @@ published: true
 ---
 
 
-## Designing for e-Commerce
 
 E-Commerce is now a day to day term in the lives of people. In the past five years e-Commerce globally has moved leaps and bounds between selling books and clothing online to selling grocery and even expensive and niche items such as art and jewellery and even services online. With a wide range of products and services playing a myriad of roles in an individual’s life, Let’s look at how we should be designing for e-Commerce applications.
 
