@@ -17,6 +17,7 @@ If we look into the origins of personas, we find that they have their roots in m
 Personas were traditionally used in marketing to understand the innate behavioural aspects of the target audience in order to present and market the product better and entice the users to buy products. In design, personas are used due to their informative nature. A persona is not a real person but a combination of characteristics, behaviours and patterns. It is very common for designers and their clients to get carried away with the myriad of design inspirations at their hand to try and experiment with features and design patterns, however that will more often end up making the product unusable or one that does not create the delightful experience they were aiming for. Personas They help create a sense of empathy towards the user and keep the focus on the user and their needs and problems. 
 
 **How to create Personas**
+
 Persona creation is never a standardised process. Just as each project is different in terms of the requirements they have, the problems  they face etc, each of the personas created, their objectives, goals are deeply driven by the following:
 Who your users are
 The type of research conducted and the observations recorded.
