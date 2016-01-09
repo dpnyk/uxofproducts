@@ -43,7 +43,7 @@ In one of my projects, we were designing a product for a media company that want
 - Understand what problems the users face - Including current problem points in your persona helps you to keep track of them in order to come to an optimum solution. Many of our users had problems finding local news easily
 
 
--Create a list of UX goals- What would create a great experience for this category of users. How would you define their experience. what excites the users. These goals helps us keep focus on the most important needs so that we can create a great experience
+- Create a list of UX goals- What would create a great experience for this category of users. How would you define their experience. what excites the users. These goals helps us keep focus on the most important needs so that we can create a great experience
 
 
 Personas when used right are a brilliant tool to help us design lean and create an experience that keeps users coming back again and again to use the product and be delighted each time they do so.
